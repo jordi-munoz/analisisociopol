@@ -1,0 +1,2 @@
+# analisisociopol
+anàlisi enquesta sociopolítica
